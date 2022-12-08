@@ -1,0 +1,24 @@
+body {
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    color: brown;
+    font-size: 3rem !important;
+}
+
+h3 {
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(42, 165, 85);
+    font-size: 2rem !important;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    height: auto;
+}
